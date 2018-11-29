@@ -1,0 +1,2 @@
+E:\Other\Uni\Diploma\Semester 2\Programming\Week 9\Week09-ChuanYeow-master\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+E:\Other\Uni\Diploma\Semester 2\Programming\Week 9\Week09-ChuanYeow-master\CodedUITestProject1\obj\Debug\CodedUITestProject1.csproj.CoreCompileInputs.cache
